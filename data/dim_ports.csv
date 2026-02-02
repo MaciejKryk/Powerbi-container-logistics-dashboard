@@ -1,0 +1,23 @@
+PortID,PortCountry,PortName,PortType
+PORT001,PL,Gdańsk,Seaport
+PORT002,PL,Gdynia,Seaport
+PORT003,DE,Hamburg,Seaport
+PORT004,NL,Rotterdam,Seaport
+PORT005,BE,Antwerp,Seaport
+PORT006,FR,Le Havre,Seaport
+PORT007,IT,Genoa,Seaport
+PORT008,ES,Valencia,Seaport
+PORT009,GR,Piraeus,Seaport
+PORT010,TR,Istanbul,Seaport
+PORT011,RO,Constanța,Seaport
+PORT012,SE,Gothenburg,Seaport
+PORT013,FI,Helsinki,Seaport
+PORT014,GB,Felixstowe,Seaport
+PORT015,US,New York,Seaport
+PORT016,US,Los Angeles,Seaport
+PORT017,CA,Vancouver,Seaport
+PORT018,IE,Dublin,Seaport
+PORT019,DK,Copenhagen,Seaport
+PORT020,PT,Lisbon,Seaport
+PORT021,CZ,Prague Inland,Inland
+PORT022,HU,Budapest Inland,Inland

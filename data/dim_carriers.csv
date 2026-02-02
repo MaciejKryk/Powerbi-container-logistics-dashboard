@@ -1,0 +1,19 @@
+CarrierID,CarrierName,Alliance,OnTimeTargetPct
+SC001,Maersk,Independent,0.704
+SC002,MSC,Ocean,0.786
+SC003,CMA CGM,Ocean,0.706
+SC004,Hapag-Lloyd,Ocean,0.649
+SC005,ONE,Independent,0.757
+SC006,Evergreen,THE Alliance,0.672
+SC007,COSCO,Ocean,0.735
+SC008,ZIM,2M,0.725
+SC009,Yang Ming,2M,0.728
+SC010,PIL,Ocean,0.9
+SC011,OOCL,Independent,0.783
+SC012,HMM,THE Alliance,0.795
+SC013,Wan Hai,2M,0.673
+SC014,Hamburg Süd,Independent,0.741
+SC015,X-Press Feeders,Ocean,0.793
+SC016,Turkon,Independent,0.719
+SC017,Sealand,2M,0.834
+SC018,Grimaldi,THE Alliance,0.708

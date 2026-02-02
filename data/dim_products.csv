@@ -1,0 +1,181 @@
+ProductID,ProductName,Category,UnitWeightKg,HazardClass,UnitVolumeM3,TargetMarginPct
+P00001,Max Circuit,Home Appliances,14.52,Non-Hazardous,0.0187,0.261
+P00002,Eco Coating,Spare Parts,11.39,Non-Hazardous,0.0121,0.115
+P00003,Ultra Pump,Chemicals,8.1,Non-Hazardous,0.0162,0.274
+P00004,Pro Valve,Spare Parts,7.95,Non-Hazardous,0.0223,0.158
+P00005,Eco Motor,Home Appliances,7.73,Non-Hazardous,0.0117,0.174
+P00006,Pro Pack,Consumer Goods,6.72,Non-Hazardous,0.0382,0.245
+P00007,Eco Module,Spare Parts,25.69,Non-Hazardous,0.0496,0.181
+P00008,Ultra Panel,Medical,13.79,Non-Hazardous,0.0033,0.291
+P00009,Eco Pump,Home Appliances,17.32,IMDG Class 8,0.0355,0.158
+P00010,Pro Valve,Home Appliances,9.07,Non-Hazardous,0.0306,0.17
+P00011,Eco Tablet,Machinery,10.88,Non-Hazardous,0.0418,0.167
+P00012,Max Valve,Consumer Goods,7.72,Non-Hazardous,0.0347,0.175
+P00013,Alpha Module,Spare Parts,0.2,Non-Hazardous,0.0059,0.308
+P00014,Alpha Panel,Consumer Goods,3.73,IMDG Class 9,0.0098,0.27
+P00015,Ultra Module,Medical,1.14,Non-Hazardous,0.0356,0.357
+P00016,Ultra Pump,Consumer Goods,0.2,Non-Hazardous,0.0556,0.401
+P00017,Max Filter,Machinery,4.83,IMDG Class 8,0.002,0.138
+P00018,Pro Filter,Medical,19.95,IMDG Class 9,0.0419,0.226
+P00019,Nano Coating,Machinery,11.73,Non-Hazardous,0.0588,0.126
+P00020,Alpha Coating,Spare Parts,19.74,Non-Hazardous,0.0319,0.158
+P00021,Eco Motor,Machinery,14.47,Non-Hazardous,0.046,0.17
+P00022,Ultra Coating,Machinery,16.7,Non-Hazardous,0.0209,0.135
+P00023,Max Filter,Chemicals,6.59,Non-Hazardous,0.0326,0.136
+P00024,Pro Circuit,Batteries,15.14,Non-Hazardous,0.0026,0.208
+P00025,Flex Circuit,Batteries,16.37,IMDG Class 8,0.002,0.123
+P00026,Flex Pack,Machinery,8.54,Non-Hazardous,0.0539,0.287
+P00027,Pro Coating,Machinery,15.36,Non-Hazardous,0.0153,0.147
+P00028,Alpha Pump,Consumer Goods,15.4,Non-Hazardous,0.0259,0.445
+P00029,Flex Coating,Textiles,8.7,Non-Hazardous,0.0073,0.184
+P00030,Pro Circuit,Textiles,5.26,Non-Hazardous,0.0068,0.226
+P00031,Pro Circuit,Batteries,4.9,IMDG Class 3,0.0315,0.116
+P00032,Ultra Tablet,Consumer Goods,12.52,IMDG Class 8,0.0204,0.356
+P00033,Core Pump,Spare Parts,13.96,Non-Hazardous,0.0426,0.31
+P00034,Flex Pack,Machinery,7.24,Non-Hazardous,0.0441,0.244
+P00035,Ultra Circuit,Spare Parts,12.16,Non-Hazardous,0.0414,0.112
+P00036,Flex Valve,Machinery,15.42,Non-Hazardous,0.0398,0.237
+P00037,Core Pack,Batteries,15.71,IMDG Class 8,0.0666,0.13
+P00038,Alpha Pack,Consumer Goods,21.31,Non-Hazardous,0.0136,0.337
+P00039,Core Pack,Batteries,19.66,Non-Hazardous,0.0339,0.285
+P00040,Nano Valve,Medical,5.99,Non-Hazardous,0.0577,0.228
+P00041,Nano Pack,Medical,22.1,Non-Hazardous,0.0603,0.05
+P00042,Core Valve,Chemicals,8.81,Non-Hazardous,0.0066,0.141
+P00043,Ultra Tablet,Batteries,18.27,Non-Hazardous,0.0288,0.275
+P00044,Max Pack,Machinery,12.41,Non-Hazardous,0.0622,0.317
+P00045,Max Valve,Machinery,9.53,Non-Hazardous,0.0452,0.309
+P00046,Nano Pump,Chemicals,1.15,Non-Hazardous,0.0389,0.093
+P00047,Core Pack,Chemicals,10.97,Non-Hazardous,0.0306,0.244
+P00048,Max Valve,Medical,2.64,Non-Hazardous,0.0273,0.301
+P00049,Ultra Module,Textiles,17.8,IMDG Class 8,0.0408,0.087
+P00050,Eco Panel,Medical,21.1,Non-Hazardous,0.03,0.219
+P00051,Flex Pump,Consumer Goods,7.22,Non-Hazardous,0.0341,0.242
+P00052,Pro Coating,Consumer Goods,13.81,Non-Hazardous,0.0366,0.196
+P00053,Alpha Motor,Batteries,7.65,Non-Hazardous,0.0214,0.072
+P00054,Eco Pack,Spare Parts,8.23,Non-Hazardous,0.0456,0.194
+P00055,Nano Coating,Medical,16.65,Non-Hazardous,0.0933,0.194
+P00056,Max Valve,Medical,11.77,IMDG Class 9,0.002,0.208
+P00057,Alpha Module,Batteries,22.44,Non-Hazardous,0.0415,0.175
+P00058,Core Pump,Textiles,9.11,Non-Hazardous,0.0198,0.185
+P00059,Nano Valve,Chemicals,18.0,Non-Hazardous,0.0465,0.217
+P00060,Flex Motor,Consumer Goods,12.58,Non-Hazardous,0.0359,0.255
+P00061,Alpha Filter,Consumer Goods,16.77,Non-Hazardous,0.0502,0.196
+P00062,Ultra Panel,Chemicals,9.32,Non-Hazardous,0.0585,0.187
+P00063,Core Motor,Spare Parts,11.7,Non-Hazardous,0.0388,0.227
+P00064,Max Panel,Textiles,11.31,Non-Hazardous,0.0576,0.066
+P00065,Alpha Panel,Spare Parts,6.98,IMDG Class 9,0.002,0.258
+P00066,Flex Coating,Textiles,15.97,Non-Hazardous,0.0668,0.22
+P00067,Nano Motor,Batteries,15.9,IMDG Class 3,0.0425,0.223
+P00068,Ultra Circuit,Home Appliances,15.56,Non-Hazardous,0.0566,0.297
+P00069,Eco Valve,Machinery,21.22,Non-Hazardous,0.0106,0.064
+P00070,Pro Coating,Batteries,20.7,IMDG Class 3,0.0184,0.062
+P00071,Eco Filter,Machinery,9.75,Non-Hazardous,0.0379,0.242
+P00072,Nano Motor,Consumer Goods,14.24,Non-Hazardous,0.0347,0.219
+P00073,Nano Tablet,Spare Parts,8.26,Non-Hazardous,0.0407,0.234
+P00074,Max Coating,Spare Parts,12.14,Non-Hazardous,0.0567,0.183
+P00075,Eco Pack,Spare Parts,8.4,IMDG Class 3,0.002,0.273
+P00076,Ultra Motor,Machinery,21.72,Non-Hazardous,0.0545,0.295
+P00077,Eco Circuit,Batteries,14.18,Non-Hazardous,0.0352,0.259
+P00078,Ultra Valve,Machinery,10.69,Non-Hazardous,0.0309,0.199
+P00079,Nano Circuit,Chemicals,19.16,Non-Hazardous,0.0056,0.051
+P00080,Core Circuit,Textiles,0.2,IMDG Class 9,0.0451,0.282
+P00081,Eco Circuit,Home Appliances,0.2,Non-Hazardous,0.002,0.318
+P00082,Ultra Filter,Batteries,16.78,Non-Hazardous,0.048,0.272
+P00083,Core Tablet,Spare Parts,12.36,Non-Hazardous,0.0052,0.15
+P00084,Flex Coating,Home Appliances,13.5,Non-Hazardous,0.0361,0.274
+P00085,Ultra Pump,Textiles,4.04,Non-Hazardous,0.0326,0.289
+P00086,Alpha Filter,Spare Parts,11.86,Non-Hazardous,0.0584,0.345
+P00087,Flex Panel,Chemicals,24.02,Non-Hazardous,0.0314,0.15
+P00088,Pro Module,Home Appliances,16.95,Non-Hazardous,0.0211,0.202
+P00089,Nano Coating,Chemicals,13.02,Non-Hazardous,0.0249,0.28
+P00090,Eco Filter,Spare Parts,9.37,Non-Hazardous,0.0605,0.225
+P00091,Nano Motor,Home Appliances,9.63,Non-Hazardous,0.0457,0.131
+P00092,Nano Valve,Home Appliances,0.2,Non-Hazardous,0.0273,0.253
+P00093,Eco Valve,Home Appliances,13.55,IMDG Class 3,0.0303,0.266
+P00094,Pro Valve,Home Appliances,17.07,Non-Hazardous,0.0037,0.227
+P00095,Max Pack,Batteries,2.55,Non-Hazardous,0.0428,0.238
+P00096,Flex Pack,Chemicals,8.03,IMDG Class 8,0.002,0.199
+P00097,Core Valve,Spare Parts,5.06,Non-Hazardous,0.05,0.338
+P00098,Pro Coating,Medical,6.21,Non-Hazardous,0.0376,0.148
+P00099,Nano Filter,Spare Parts,12.32,Non-Hazardous,0.0827,0.173
+P00100,Eco Motor,Chemicals,0.2,Non-Hazardous,0.013,0.221
+P00101,Alpha Coating,Textiles,15.69,IMDG Class 3,0.0329,0.29
+P00102,Alpha Module,Home Appliances,16.52,Non-Hazardous,0.071,0.1
+P00103,Ultra Panel,Consumer Goods,10.49,Non-Hazardous,0.0588,0.115
+P00104,Ultra Valve,Consumer Goods,0.2,Non-Hazardous,0.0211,0.057
+P00105,Eco Tablet,Textiles,6.02,Non-Hazardous,0.0395,0.223
+P00106,Alpha Motor,Machinery,19.4,Non-Hazardous,0.035,0.131
+P00107,Max Filter,Medical,0.2,Non-Hazardous,0.0406,0.189
+P00108,Flex Tablet,Textiles,9.91,Non-Hazardous,0.021,0.273
+P00109,Eco Pump,Medical,4.92,Non-Hazardous,0.0332,0.169
+P00110,Ultra Circuit,Chemicals,16.83,Non-Hazardous,0.003,0.239
+P00111,Alpha Pump,Batteries,7.95,Non-Hazardous,0.0377,0.196
+P00112,Flex Pump,Consumer Goods,14.42,Non-Hazardous,0.044,0.274
+P00113,Eco Pump,Textiles,15.39,Non-Hazardous,0.0305,0.258
+P00114,Ultra Module,Chemicals,23.02,Non-Hazardous,0.0027,0.165
+P00115,Ultra Filter,Machinery,10.78,Non-Hazardous,0.0548,0.207
+P00116,Flex Pump,Medical,14.26,Non-Hazardous,0.0423,0.303
+P00117,Alpha Module,Machinery,3.09,Non-Hazardous,0.0205,0.251
+P00118,Pro Valve,Home Appliances,19.14,Non-Hazardous,0.0294,0.108
+P00119,Flex Coating,Medical,7.44,IMDG Class 3,0.005,0.272
+P00120,Eco Coating,Consumer Goods,8.64,Non-Hazardous,0.0145,0.133
+P00121,Core Module,Chemicals,11.87,Non-Hazardous,0.0242,0.333
+P00122,Max Panel,Medical,2.62,Non-Hazardous,0.0596,0.302
+P00123,Pro Valve,Consumer Goods,13.37,Non-Hazardous,0.0222,0.243
+P00124,Alpha Pump,Consumer Goods,17.8,Non-Hazardous,0.0478,0.233
+P00125,Flex Filter,Chemicals,13.76,Non-Hazardous,0.0242,0.203
+P00126,Eco Panel,Consumer Goods,2.47,Non-Hazardous,0.04,0.274
+P00127,Pro Motor,Batteries,11.26,Non-Hazardous,0.0322,0.19
+P00128,Max Pack,Machinery,16.45,Non-Hazardous,0.0525,0.239
+P00129,Ultra Pack,Batteries,0.73,Non-Hazardous,0.0243,0.29
+P00130,Flex Valve,Consumer Goods,5.55,Non-Hazardous,0.0035,0.175
+P00131,Pro Pack,Medical,17.26,Non-Hazardous,0.0074,0.171
+P00132,Ultra Coating,Spare Parts,13.62,Non-Hazardous,0.0244,0.124
+P00133,Pro Pump,Chemicals,14.47,Non-Hazardous,0.01,0.135
+P00134,Flex Tablet,Batteries,23.16,Non-Hazardous,0.0432,0.074
+P00135,Max Coating,Consumer Goods,14.81,IMDG Class 8,0.0257,0.278
+P00136,Nano Valve,Spare Parts,15.95,Non-Hazardous,0.0825,0.365
+P00137,Max Valve,Medical,28.26,Non-Hazardous,0.002,0.334
+P00138,Ultra Panel,Spare Parts,10.72,IMDG Class 3,0.0391,0.09
+P00139,Ultra Pack,Consumer Goods,7.21,IMDG Class 9,0.0124,0.278
+P00140,Max Coating,Chemicals,14.57,Non-Hazardous,0.0251,0.334
+P00141,Pro Tablet,Medical,14.63,IMDG Class 3,0.0378,0.183
+P00142,Core Panel,Textiles,8.84,IMDG Class 8,0.002,0.228
+P00143,Core Motor,Textiles,5.81,Non-Hazardous,0.0397,0.059
+P00144,Pro Motor,Batteries,25.86,Non-Hazardous,0.0731,0.241
+P00145,Nano Circuit,Machinery,13.96,Non-Hazardous,0.0259,0.135
+P00146,Max Valve,Consumer Goods,7.61,Non-Hazardous,0.0402,0.236
+P00147,Nano Pump,Machinery,17.5,Non-Hazardous,0.0555,0.095
+P00148,Alpha Tablet,Machinery,11.35,Non-Hazardous,0.0317,0.263
+P00149,Alpha Panel,Spare Parts,10.48,Non-Hazardous,0.0234,0.302
+P00150,Eco Pack,Medical,15.37,Non-Hazardous,0.002,0.157
+P00151,Ultra Motor,Home Appliances,4.25,Non-Hazardous,0.0478,0.129
+P00152,Flex Panel,Batteries,14.12,IMDG Class 3,0.0327,0.05
+P00153,Max Pack,Textiles,23.48,Non-Hazardous,0.0147,0.199
+P00154,Ultra Circuit,Batteries,14.8,Non-Hazardous,0.0375,0.173
+P00155,Core Pack,Spare Parts,9.74,Non-Hazardous,0.0233,0.096
+P00156,Eco Motor,Batteries,8.96,IMDG Class 3,0.0244,0.256
+P00157,Eco Pump,Home Appliances,9.54,IMDG Class 9,0.0471,0.184
+P00158,Max Pump,Machinery,10.48,IMDG Class 3,0.0082,0.134
+P00159,Eco Valve,Chemicals,9.73,IMDG Class 3,0.0559,0.176
+P00160,Pro Motor,Batteries,17.5,Non-Hazardous,0.007,0.306
+P00161,Pro Circuit,Chemicals,1.6,Non-Hazardous,0.0217,0.268
+P00162,Ultra Coating,Batteries,17.17,Non-Hazardous,0.0735,0.21
+P00163,Core Panel,Home Appliances,9.72,Non-Hazardous,0.0575,0.27
+P00164,Pro Module,Chemicals,14.26,IMDG Class 8,0.037,0.127
+P00165,Core Panel,Machinery,5.24,Non-Hazardous,0.0162,0.223
+P00166,Pro Module,Consumer Goods,19.97,Non-Hazardous,0.0244,0.232
+P00167,Ultra Panel,Spare Parts,19.47,Non-Hazardous,0.0365,0.182
+P00168,Core Module,Chemicals,17.76,Non-Hazardous,0.0358,0.255
+P00169,Ultra Coating,Medical,2.91,Non-Hazardous,0.0332,0.158
+P00170,Core Module,Chemicals,16.97,Non-Hazardous,0.0344,0.261
+P00171,Alpha Filter,Spare Parts,14.43,IMDG Class 8,0.0307,0.264
+P00172,Alpha Filter,Consumer Goods,2.37,Non-Hazardous,0.0062,0.05
+P00173,Max Panel,Textiles,11.85,IMDG Class 3,0.0247,0.315
+P00174,Flex Module,Machinery,14.19,Non-Hazardous,0.0533,0.05
+P00175,Alpha Circuit,Spare Parts,15.34,Non-Hazardous,0.0076,0.171
+P00176,Flex Motor,Home Appliances,13.06,Non-Hazardous,0.0312,0.302
+P00177,Nano Motor,Machinery,13.75,Non-Hazardous,0.0186,0.195
+P00178,Flex Circuit,Chemicals,20.84,Non-Hazardous,0.0372,0.103
+P00179,Pro Pack,Spare Parts,19.36,IMDG Class 8,0.0272,0.133
+P00180,Max Pump,Machinery,0.2,Non-Hazardous,0.0645,0.302
